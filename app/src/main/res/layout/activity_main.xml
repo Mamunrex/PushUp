@@ -16,7 +16,7 @@
         android:layout_marginRight="8dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
-        android:text="Click"
+        android:text="@string/click"
         android:onClick="clickAndNext"
         android:textAllCaps="false"
         app:layout_constraintBottom_toBottomOf="parent"
